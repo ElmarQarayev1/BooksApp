@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/bin/Debug/net7.0/Class_Task
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/bin/Debug/net7.0/Class_Task.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/bin/Debug/net7.0/Class_Task.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/bin/Debug/net7.0/Class_Task.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/bin/Debug/net7.0/Class_Task.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/refint/Class_Task.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/Class_Task.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Class_Task/Class_Task/Class_Task/obj/Debug/net7.0/ref/Class_Task.dll
